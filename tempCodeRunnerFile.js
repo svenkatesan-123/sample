@@ -1,0 +1,1 @@
+const Movie = mongoose.model('Movie',moviesSchema);
